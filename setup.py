@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 from parrot import __version__
 
 setup(
-    name='parrot',
+    name='python-parrot',
     version=__version__,
     license='BSD',
     author='Sam Kingston',
