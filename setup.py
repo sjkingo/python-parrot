@@ -11,9 +11,6 @@ setup(
     description='Parrot is a simple HTTP server that responds to requests with a specified filename',
     long_description_markdown_filename='README.md',
     url='https://github.com/sjkingo/python-parrot',
-    setup_requires=[
-        'setuptools-markdown',
-    ],
     install_requires=[
         'python-magic',
     ],
