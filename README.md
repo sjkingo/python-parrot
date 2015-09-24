@@ -1,6 +1,6 @@
 # python-parrot
 
-[parrot](https://www.youtu.be/npjOSLCR2hE) is a simple HTTP server that responds to any valid GET
+[parrot](https://youtu.be/npjOSLCR2hE) is a simple HTTP server that responds to any valid GET
 request with the file specified on the command line.
 
 It is useful during testing (e.g. to mock out a server application),
