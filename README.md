@@ -7,9 +7,11 @@ It is useful during testing (e.g. to mock out a server application),
 or to do client testing. Both text and binary files are handlded correctly.
 
 Its only dependency is the excellent [python-magic](https://github.com/ahupp/python-magic) library
-for mime type guessing.
+for mime type guessing. It works on Python 3.
 
-It is written for Python 3.
+```
+$ pip install python-parrot
+```
 
 ## Usage
 
